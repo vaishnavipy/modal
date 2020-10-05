@@ -113,3 +113,17 @@ body{
     color:#102A42 ;
     
 }
+
+@media only screen and (max-width:700px){
+#modal,#container{
+   width:95vw;
+   height:45vw;
+}
+#dialog{
+    width:95vw;
+    height:35vw;
+
+
+}
+
+}
